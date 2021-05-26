@@ -1,0 +1,41 @@
+items:
+veg roll
+paneer roll
+veg puff
+paneer puff
+samosa
+onion samosa
+burger
+pizza
+coke
+sprite
+maaza
+gems
+goodday biscuit
+hide and seek
+bathing soap
+washing powder
+washing soap
+apple
+watermelon
+mango
+papaya
+banana
+fruit salad
+ear mufflers
+sports tshirt
+socks
+fruit juice
+gobi manchurian
+white pant
+white shirt
+cadbury dairymilk
+amul tricone
+notebook
+pen
+other stationary items
+chips
+lays
+belt
+hand fan
+sitting mat

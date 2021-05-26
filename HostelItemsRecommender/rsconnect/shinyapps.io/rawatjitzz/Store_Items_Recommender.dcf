@@ -1,0 +1,13 @@
+name: Store_Items_Recommender
+title: Store_Items_Recommender
+username:
+account: rawatjitzz
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3940005
+bundleId: 4548867
+url: https://rawatjitzz.shinyapps.io/Store_Items_Recommender/
+when: 1620021806.4573
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData
